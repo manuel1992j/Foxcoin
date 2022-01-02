@@ -1,0 +1,9 @@
+Building Foxcoin
+
+See doc/readme-qt.rst for instructions on building Foxcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Foxcoin.
+
+See doc/build-*.txt for instructions on building foxcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Foxcoin.

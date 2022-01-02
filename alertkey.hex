@@ -1,0 +1,17 @@
+Private-Key: (256 bit)
+priv:
+    ce:c2:51:e8:77:b2:e9:21:a4:c8:f4:86:10:a4:c7:
+    59:f5:68:02:9c:2b:b2:51:3d:33:70:a0:fe:f3:8e:
+    36:b8
+pub:
+    04:af:bb:ca:fe:98:2e:1a:00:94:30:02:a5:ee:88:
+    92:b6:2e:b3:45:b1:ec:17:65:40:70:cb:e4:46:fb:
+    8b:cb:33:4c:fa:c1:1f:74:95:2e:47:72:08:ad:86:
+    ba:67:83:11:4d:69:05:23:b9:09:d1:5f:4f:e6:5c:
+    37:d1:12:98:d3
+ASN1 OID: secp256k1
+-----BEGIN EC PRIVATE KEY-----
+MHQCAQEEIM7CUeh3sukhpMj0hhCkx1n1aAKcK7JRPTNwoP7zjja4oAcGBSuBBAAK
+oUQDQgAEr7vK/pguGgCUMAKl7oiSti6zRbHsF2VAcMvkRvuLyzNM+sEfdJUuR3II
+rYa6Z4MRTWkFI7kJ0V9P5lw30RKY0w==
+-----END EC PRIVATE KEY-----
